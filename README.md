@@ -7,9 +7,19 @@ This is an interactive **Paint App** where users can draw freely on the screen u
 
 ## 📸 Preview
 
-> (You can add a screenshot or GIF of your app here)
 
----
+<img width="1816" height="768" alt="Image" src="https://github.com/user-attachments/assets/2601bcd4-f139-4c4d-b1de-15d035e81ba1" />
+
+
+<img width="1709" height="753" alt="Image" src="https://github.com/user-attachments/assets/73c3764a-5997-4beb-b6b8-1e4b5517a61a" />
+
+
+<img width="1618" height="753" alt="Image" src="https://github.com/user-attachments/assets/eab4b2a9-e13f-45c7-8fd8-777c42e08021" />
+
+
+<img width="1554" height="752" alt="Image" src="https://github.com/user-attachments/assets/f4a2d3b7-ce00-4b02-9461-43ae84c86888" />
+
+
 
 ## 🧠 How It Works
 
